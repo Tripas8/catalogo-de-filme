@@ -1,6 +1,6 @@
 body {
 
-    background: lightpink;
+    background: black;
      color:antiquewhite;
     margin: 0;
 
@@ -9,7 +9,7 @@ body {
 header {
     text-align: center;
     font-size: 80px;
-    border-bottom: solid 10px pink;
+    border-bottom: solid 10px palevioletred;
     margin:20 px;
     margin-left: 80;
     margin-right: 80;
