@@ -13,6 +13,7 @@ header {
     margin: 20px;
     margin-left: 80;
     margin-right: 80;
+    font-family: "Sixtyfour Convergence", sans-serif;
 }
 
 section {
@@ -22,4 +23,12 @@ section {
     margin-top: 20px;
     justify-content: center;
     
+    
+}
+
+.chamada-texto{
+    margin-right: 3%;
+
+
+
 }
