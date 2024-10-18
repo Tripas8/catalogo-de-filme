@@ -1,7 +1,8 @@
 body {
 
     background: lightpink;
-    color:antiquewhite;
+     color:antiquewhite;
+    margin: 0;
 
 }
 
@@ -9,6 +10,7 @@ header {
     text-align: center;
     font-size: 80px;
     border-bottom: solid 10px pink;
+    margin:20 px;
     margin-left: 80;
     margin-right: 80;
 }
