@@ -2,7 +2,6 @@ body {
 
     background: lightpink;
     color:antiquewhite;
-    display: flex;
 
 }
 
@@ -12,4 +11,12 @@ header {
     border-bottom: solid 10px pink;
     margin-left: 80;
     margin-right: 80;
+}
+
+section {
+    display: flex;
+    background-color: white;
+
+
+
 }
