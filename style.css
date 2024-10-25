@@ -18,7 +18,7 @@ header {
 
 section {
     display: flex;
-    background-color: white;
+    background-color: gray;
     padding-bottom: 80px;
     margin-top: 20px;
     justify-content: center;
