@@ -38,7 +38,8 @@ img {
 }
 
 .outrasRecomendacoes {
-    justify-content: center; 
+    justify-content: center;
+    padding: 50px; 
 
 }
 
@@ -52,4 +53,14 @@ img {
     gap: 15px;
     display: flex;
 
+}
+
+.outrasRecomendacoes img{
+    opacity: 0.6;
+
+}
+
+.outrasRecomendacoes img:hover {
+    opacity: 1.0
+    border: solid 2px
 }
