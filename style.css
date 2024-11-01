@@ -32,7 +32,13 @@ section {
 }
 
 img {
-    
+    width: 150px;
+    height: 200px;
+
+}
+
+.outrasRecomendacoes {
+    text-align: center;
 
 
 
